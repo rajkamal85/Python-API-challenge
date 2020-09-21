@@ -9,7 +9,7 @@ Humidity (%) vs. Latitude,
 Cloudiness (%) vs. Latitude,
 Wind Speed (mph) vs. Latitude.
 
-For next objective, run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
+For next objective, run linear regression on each relationship, separating them into Northern Hemisphere and Southern Hemisphere:
 ----------------------------------------------------------
 Northern Hemisphere - Temperature (F) vs. Latitude,
 Southern Hemisphere - Temperature (F) vs. Latitude,
